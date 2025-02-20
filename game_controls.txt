@@ -1,3 +1,4 @@
+Game rules
 WATER MANAGMENT
 A D - LEFT AND RIGHT
 SPACE - UP
@@ -13,3 +14,6 @@ CAN BREAK ICE WALLS
 CHANGE MODE - 1 2 3
 CLOUSE GAME - ESC
 RESTART - R
+
+Green key - open green door
+Red Key - start timer if timer finished red door clouse 
