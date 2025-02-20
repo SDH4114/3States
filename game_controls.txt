@@ -3,7 +3,7 @@ Game Rules
 Water Management
 	•	A D – Move left and right
 	•	SPACE – Move up
-	•	E – Move water down
+	•	E – Water down
 
 Air Management
 	•	W A S D – Move up, down, left, right
