@@ -1,19 +1,22 @@
-Game rules
-WATER MANAGMENT
-A D - LEFT AND RIGHT
-SPACE - UP
-WATER DOWN - E
+Game Rules
 
-AIR MANAGMENT
-WASD - UP DOWN LEFT RIGHT
+Water Management
+	•	A D – Move left and right
+	•	SPACE – Move up
+	•	E – Move water down
 
-ICE MANAGMENT
-A D - LEFT RIGHT
-CAN BREAK ICE WALLS
+Air Management
+	•	W A S D – Move up, down, left, right
 
-CHANGE MODE - 1 2 3
-CLOUSE GAME - ESC
-RESTART - R
+Ice Management
+	•	A D – Move left and right
+	•	Can break ice walls
 
-Green key - open green door
-Red Key - start timer if timer finished red door clouse 
+Other Controls
+	•	1 2 3 – Change mode
+	•	ESC – Close game
+	•	R – Restart
+
+Keys and Doors
+	•	Green Key – Opens the green door
+	•	Red Key – Starts the timer; if the timer runs out, the red door closes
